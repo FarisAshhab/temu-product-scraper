@@ -17,7 +17,7 @@ This project is a web scraping tool that extracts product data from the Temu web
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/WebScraper.git
+git clone https://github.com/farisashhab/temu-product-scraper.git
 cd WebScraper
 
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 
 Step 3: Download ChromeDriver
-Download the ChromeDriver that matches your version of Chrome from here.
+Download the ChromeDriver that matches your version of Chrome from here: https://developer.chrome.com/docs/chromedriver/downloads
 Extract the downloaded file and place it in the WebScraper directory.
 
 Step 4: Run the Flask Application
