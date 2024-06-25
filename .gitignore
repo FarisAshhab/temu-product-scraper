@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+chromedriver-win64/
+products.json
+continue.txt
+scrape_status.txt
